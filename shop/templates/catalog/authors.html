@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main>
+    <section class="py-5 text-center container">
+      <div class="row py-lg-5" bis_skin_checked="1">
+        <div class="col-lg-6 col-md-8 mx-auto" bis_skin_checked="1">
+          <h1 class="fw-light">All Authors</h1>
+        </div>
+      </div>
+    </section>
+
+    <div class="album py-5 bg-light" bis_skin_checked="1">
+        <div class="container" bis_skin_checked="1">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" bis_skin_checked="1">
+                {% for author in authors %}
+                <div class="col" bis_skin_checked="1">
+                    <div class="card shadow-sm" bis_skin_checked="1">
+                       <img src="{{ author.photo.url }}" width="100%" height="400px">
+                        <div class="card-body" bis_skin_checked="1">
+                            <h4 class="card-text">{{author}}</h4>
+                            <p class="card-text">{{author.date_of_birth}} {% if author.date_of_death %} - {{author.date_of_death}} {% endif %}</p>
+
+                            <div class="d-flex justify-content-between align-items-center" bis_skin_checked="1">
+                                <div class="btn-group" bis_skin_checked="1">
+                                    <a href="{{ author.get_author_url }}" class="btn btn-sm btn-outline-secondary">{{author.last_name}}'s catalog</a>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+  </main>
+{% endblock content %}

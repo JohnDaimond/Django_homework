@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4873e57-da16-49c9-b0cf-1dad67169e8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/shop/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/accounts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/api/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/migrations/0002_book_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/migrations/0003_alter_book_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/catalog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/775_oyD8ATk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/акунин_qmKvUWK.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/грахам_B7UYLIN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/йен_XGkQThj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/кинг_7xZqTiU.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/кинг_7xZqTiU_GdCaIs6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/authors/ремарк_rDcJXlC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/books/10114906_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/books/472af5039ca7f0e1e381de1d8e020455_200x0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/books/56736f757b08e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/books/b9653b1c39347cc3261f76ee76b5221a_200x0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/books/c93968e242f9cfbd54cb8cd66e0ec6ad_200x0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/source/books/p_9_4_0_940-vorishka-martin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/catalog/authors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/catalog/book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/catalog/catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/registration/password_reset_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/registration/password_reset_confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/registration/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/registration/password_reset_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/registration/signup.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MKoWQt78WKglVUfFPxiqDVliKz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/pythonProject2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4873e57-da16-49c9-b0cf-1dad67169e8f" name="Changes" comment="" />
+      <created>1677525665292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677525665292</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
